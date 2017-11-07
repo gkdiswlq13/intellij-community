@@ -15,6 +15,7 @@
  */
 package com.intellij.java.find;
 
+
 import com.intellij.codeInsight.hint.EditorHintListener;
 import com.intellij.find.FindModel;
 import com.intellij.find.impl.livePreview.LivePreview;
